@@ -1,4 +1,4 @@
-# 📧 ReachInbox Full-Stack Email Scheduler
+# 📧Full-Stack Email Scheduler
 
 A resilient, scalable TypeScript monorepo application for scheduled email dispatching. Built with Express, Redis, PostgreSQL (Prisma), BullMQ, Elasticsearch, and Next.js (App Router).
 
