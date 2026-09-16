@@ -352,6 +352,5 @@ npx tsx src/scripts/testLoad.ts
 
 ---
 
-## 📄 License
-ISC License © ReachInbox
+
 
